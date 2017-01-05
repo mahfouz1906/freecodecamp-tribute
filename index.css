@@ -1,0 +1,28 @@
+.jumbotron{
+  
+  background-size:cover;
+}
+.name h2,footer{
+  font-style:italic;
+}
+.live p {
+  color:#000000;
+  font-weight:bold
+}
+.date{
+  font-weight:bold;
+}
+a{
+  cursor:pointer;
+}
+.coder{
+  text-align:center;
+}
+.wiki a{
+  text-decoration:underline;
+  color:darkblue;
+}
+.wiki p{
+  
+  font-size:24px;
+}
